@@ -1,4 +1,0 @@
-# echo-mesh
-Commit 4
-Date: 2024-02-11T23:07:04Z
-Refactor helpers
