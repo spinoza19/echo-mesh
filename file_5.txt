@@ -1,4 +1,0 @@
-# echo-mesh
-Commit 6
-Date: 2024-12-16T01:10:31Z
-Add unit tests
