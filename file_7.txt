@@ -1,4 +1,0 @@
-# echo-mesh
-Commit 8
-Date: 2025-08-15T16:45:14Z
-Add documentation
